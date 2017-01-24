@@ -1,0 +1,8 @@
+rocno dodal podatke o:
+161,Sinead OConnor,Nothing Compares To You
+219,The Left Banke,Walk Away Renee
+396,Blue Oyster Cult,Don't Fear The Reaper
+
+id,avtor,naslov,upload_date,duration,view_count,like_count,dislike_count,average_rating
+
+izginila: The Message by Grandmaster Flash & The Furious Five
