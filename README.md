@@ -14,3 +14,4 @@ originalen seznam, nato sem z strani youtube.com za vsako pesem iz tega seznama 
 * preurediti seznam glede na razmerje (število ogledov x število všečkov) / (število nevšečkov)
 * preurediti seznam glede na število ur, ki so jih uporabniki youtube.com vložili v pesmi
 * ugotoviti kateri izmed zajetih podatkov naredi najbolj podoben seznam originalnemu
+* graf porazdelitve števila pesmi s seznama glede na njihov youtube oceno
